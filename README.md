@@ -1,4 +1,4 @@
-# BomberBelts
+# BomberBelts (This is an AI-based game that I edited during my Intro To Artificial Intelligence class)!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~Adding AI Scripts~~~~~~~~~~~~~~~~
 
